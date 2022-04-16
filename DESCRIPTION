@@ -2,8 +2,8 @@ Package: optport
 Type: Package
 Title: Portfolio optimization and backtesting
 Version: 0.1.0
-Author: Sean Hill
-Maintainer: Sean Hill <52792611+shill1729@users.noreply.github.com>
+Author: S. Hill
+Maintainer: S. Hill <52792611+shill1729@users.noreply.github.com>
 Description: Functions for various portfolio optimization problems
     and backtesting them on historical prices.
 License: GPL-3
